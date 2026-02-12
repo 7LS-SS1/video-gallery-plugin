@@ -58,6 +58,8 @@ class Plugin {
      * Initialize plugin components
      */
     private function init_components(): void {
+        new Github_Updater();
+
         // Initialize admin interface
         if (is_admin()) {
             new \SevenLS_VP_Admin();

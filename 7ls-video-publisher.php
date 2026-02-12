@@ -6,6 +6,7 @@
  * Version: 1.1.0
  * Requires at least: 6.0
  * Requires PHP: 8.0
+ * Update URI: https://github.com/7LS-SS1/video-gallery-plugin
  * Author: 7LS
  * Author URI: https://example.com
  * License: GPL v2 or later
